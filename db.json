@@ -1,0 +1,157 @@
+{
+	"Rooms": [
+		{
+			"RoomId": "1",
+			"Location": "Tampa",
+			"Address": {
+				"Street": "Livingston Ave",
+				"AptNum": "1209",
+				"City": "Lutz",
+				"State": "FL",
+				"PostalCode": "11111",
+				"Country": "USA"
+			},
+			"Vacancy": 2,
+			"Occupancy": 4,
+			"Gender": "M"
+		},
+		{
+			"RoomId": "2",
+			"Location": "Tampa",
+			"Address": {
+				"Street": "Livingston Ave",
+				"AptNum": "1200",
+				"City": "Lutz",
+				"State": "FL",
+				"PostalCode": "11111",
+				"Country": "USA"
+			},
+			"Vacancy": 3,
+			"Occupancy": 3,
+			"Gender": "M"
+		},
+		{
+			"RoomId": "3",
+			"Location": "Tampa",
+			"Address": {
+				"Street": "Bellarmin St.",
+				"AptNum": "0000",
+				"City": "Tampa",
+				"State": "FL",
+				"PostalCode": "11112",
+				"Country": "USA"
+			},
+			"Vacancy": 4,
+			"Occupancy": 2,
+			"Gender": "F"
+		},
+		{
+			"RoomId": "4",
+			"Location": "Tampa",
+			"Address": {
+				"Street": "Bellarmin St.",
+				"AptNum": "0010",
+				"City": "Tampa",
+				"State": "FL",
+				"PostalCode": "11112",
+				"Country": "USA"
+			},
+			"Vacancy": 5,
+			"Occupancy": 1,
+			"Gender": "M"
+		},
+		{
+			"RoomId": "5",
+			"Location": "Tampa",
+			"Address": {
+				"Street": "Bellarmin St.",
+				"AptNum": "0020",
+				"City": "Tampa",
+				"State": "FL",
+				"PostalCode": "11112",
+				"Country": "USA"
+			},
+			"Vacancy": 0,
+			"Occupancy": 6,
+			"Gender": "M"
+		},
+		{
+			"RoomId": "6",
+			"Location": "Tampa",
+			"Address": {
+				"Street": "Bellarmin St.",
+				"AptNum": "0020",
+				"City": "Tampa",
+				"State": "FL",
+				"PostalCode": "11112",
+				"Country": "USA"
+			},
+			"Vacancy": 0,
+			"Occupancy": 6,
+			"Gender": "M"
+		}
+	],
+	
+	"Users": [
+		{
+			"Id": 1,
+			"Location": "Here",
+			"Address": {
+			  "Street": "Angular Main Rd",
+			  "AptNum": "3",
+			  "City": "Tampa",
+			  "State": "Florida",
+			  "PostalCode": "98798",
+			  "Country": "USA"
+			},
+			"Email": "email@gmail.com",
+			"Name": {
+			  "First": "You",
+			  "Middle": "o",
+			  "Last": "Kot"
+			},
+			"Gender": "F",
+			"Type": "Unknown"
+		  },
+		  {
+			"Id": 2,
+			"Location": "There",
+			"Address": {
+			  "Street": "C# Main Rd",
+			  "AptNum": "31",
+			  "City": "Tampa",
+			  "State": "Florida",
+			  "PostalCode": "98798",
+			  "Country": "USA"
+			},
+			"Email": "email@yahoo.com",
+			"Name": {
+			  "First": "Me",
+			  "Middle": "o",
+			  "Last": "Ko"
+			},
+			"Gender": "M",
+			"Type": "Known"
+		  },
+		  {
+			"Id": 3,
+			"Location": "Nowhere",
+			"Address": {
+			  "Street": "Dotnet Main St",
+			  "AptNum": "314",
+			  "City": "Tampa",
+			  "State": "Florida",
+			  "PostalCode": "98790",
+			  "Country": "USA"
+			},
+			"Email": "email@revature.com",
+			"Name": {
+			  "First": "Who",
+			  "Middle": "o",
+			  "Last": "K"
+			},
+			"Gender": "F",
+			"Type": "Unknown"
+		  }
+	  ]
+}
