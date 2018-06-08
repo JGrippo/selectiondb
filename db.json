@@ -1,796 +1,157 @@
 {
-    "Rooms": [
-      {
-        "RoomId": "5b199c0ffab59f31fac39937",
-        "Location": "Chicago",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 472,
-          "City": "Chicago",
-          "State": "Florida",
-          "PostalCode": 57011,
-          "Country": "USA"
-        },
-        "Vacancy": 3,
-        "Occupancy": 3,
-        "Gender": "male"
-      },
-      {
-        "RoomId": "5b199c0f023f62f2ecfb191e",
-        "Location": "Denver",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 204,
-          "City": "Denver",
-          "State": "Florida",
-          "PostalCode": 11491,
-          "Country": "USA"
-        },
-        "Vacancy": 2,
-        "Occupancy": 4,
-        "Gender": "female"
-      },
-      {
-        "RoomId": "5b199c0f7d1461ffe179075a",
-        "Location": "Chicago",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 116,
-          "City": "Chicago",
-          "State": "Florida",
-          "PostalCode": 12273,
-          "Country": "USA"
-        },
-        "Vacancy": 2,
-        "Occupancy": 4,
-        "Gender": "male"
-      },
-      {
-        "RoomId": "5b199c0f72e91704b89a229d",
-        "Location": "New York",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 588,
-          "City": "New York",
-          "State": "Virginia",
-          "PostalCode": 61392,
-          "Country": "USA"
-        },
-        "Vacancy": 6,
-        "Occupancy": 0,
-        "Gender": "female"
-      },
-      {
-        "RoomId": "5b199c0f53b935201b04391c",
-        "Location": "Chicago",
-        "Address": {
-          "Street": "Livingston",
-          "AptNum": 386,
-          "City": "Chicago",
-          "State": "Virginia",
-          "PostalCode": 71946,
-          "Country": "USA"
-        },
-        "Vacancy": 0,
-        "Occupancy": 6,
-        "Gender": "female"
-      },
-      {
-        "RoomId": "5b199c0f7139cb8e1b7a6159",
-        "Location": "New York",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 298,
-          "City": "New York",
-          "State": "Virginia",
-          "PostalCode": 64195,
-          "Country": "USA"
-        },
-        "Vacancy": 4,
-        "Occupancy": 2,
-        "Gender": "female"
-      },
-      {
-        "RoomId": "5b199c0fc7502cc82df73223",
-        "Location": "New York",
-        "Address": {
-          "Street": "Livingston",
-          "AptNum": 536,
-          "City": "New York",
-          "State": "Florida",
-          "PostalCode": 74044,
-          "Country": "USA"
-        },
-        "Vacancy": 0,
-        "Occupancy": 6,
-        "Gender": "male"
-      },
-      {
-        "RoomId": "5b199c0ff952debca55aa550",
-        "Location": "Tampa",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 231,
-          "City": "Tampa",
-          "State": "Virginia",
-          "PostalCode": 95039,
-          "Country": "USA"
-        },
-        "Vacancy": 2,
-        "Occupancy": 4,
-        "Gender": "female"
-      },
-      {
-        "RoomId": "5b199c0ffbb1e864bf389d83",
-        "Location": "Tampa",
-        "Address": {
-          "Street": "Livingston",
-          "AptNum": 522,
-          "City": "Tampa",
-          "State": "Florida",
-          "PostalCode": 18193,
-          "Country": "USA"
-        },
-        "Vacancy": 4,
-        "Occupancy": 2,
-        "Gender": "male"
-      },
-      {
-        "RoomId": "5b199c0ffa7ffd6609adf34f",
-        "Location": "Denver",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 144,
-          "City": "Denver",
-          "State": "Virginia",
-          "PostalCode": 38921,
-          "Country": "USA"
-        },
-        "Vacancy": 0,
-        "Occupancy": 6,
-        "Gender": "male"
-      },
-      {
-        "RoomId": "5b199c0f12a842effa6bfec3",
-        "Location": "Valley",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 237,
-          "City": "Valley",
-          "State": "Virginia",
-          "PostalCode": 29107,
-          "Country": "USA"
-        },
-        "Vacancy": 0,
-        "Occupancy": 6,
-        "Gender": "male"
-      },
-      {
-        "RoomId": "5b199c0faacc3e6b3572e2ea",
-        "Location": "New York",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 383,
-          "City": "New York",
-          "State": "Virginia",
-          "PostalCode": 61586,
-          "Country": "USA"
-        },
-        "Vacancy": 0,
-        "Occupancy": 6,
-        "Gender": "male"
-      },
-      {
-        "RoomId": "5b199c0fb322da240e14d623",
-        "Location": "New York",
-        "Address": {
-          "Street": "Livingston",
-          "AptNum": 260,
-          "City": "New York",
-          "State": "Florida",
-          "PostalCode": 61654,
-          "Country": "USA"
-        },
-        "Vacancy": 6,
-        "Occupancy": 0,
-        "Gender": "male"
-      }
-    ],  
-    "Users": [
-      {
-        "Id": "5b199c27ab34bf19eb2fe41a",
-        "Location": "Here",
-        "Address": {
-          "Street": "Livingston",
-          "AptNum": 269,
-          "City": "Here",
-          "State": "Florida",
-          "PostalCode": 57884,
-          "Country": "USA"
-        },
-        "email": "magdalenahull@hinway.com",
-        "Name": [
-          {
-            "First": "Monica",
-            "Middle": "Gwendolyn",
-            "Last": "Daniel"
-          }
-        ],
-        "Gender": "female",
-        "Type": "Known"
-      },
-      {
-        "Id": "5b199c2787e23b39682e8035",
-        "Location": "Reston",
-        "Address": {
-          "Street": "Livingston",
-          "AptNum": 118,
-          "City": "Reston",
-          "State": "Virginia",
-          "PostalCode": 51528,
-          "Country": "USA"
-        },
-        "email": "gwendolyndaniel@hinway.com",
-        "Name": [
-          {
-            "First": "Margery",
-            "Middle": "Bauer",
-            "Last": "Nixon"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Undefined"
-      },
-      {
-        "Id": "5b199c27d425b61191325e9d",
-        "Location": "Reston",
-        "Address": {
-          "Street": "Livingston",
-          "AptNum": 303,
-          "City": "Reston",
-          "State": "Virginia",
-          "PostalCode": 27783,
-          "Country": "USA"
-        },
-        "email": "bauernixon@hinway.com",
-        "Name": [
-          {
-            "First": "Rosalind",
-            "Middle": "Andrews",
-            "Last": "Rivers"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Undefined"
-      },
-      {
-        "Id": "5b199c278f9f95dfa8bbb70c",
-        "Location": "Tampa",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 328,
-          "City": "Tampa",
-          "State": "Virginia",
-          "PostalCode": 18414,
-          "Country": "USA"
-        },
-        "email": "andrewsrivers@hinway.com",
-        "Name": [
-          {
-            "First": "Ramsey",
-            "Middle": "Amelia",
-            "Last": "Chan"
-          }
-        ],
-        "Gender": "female",
-        "Type": "Known"
-      },
-      {
-        "Id": "5b199c27a8754334e5e76cad",
-        "Location": "Valley",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 261,
-          "City": "Valley",
-          "State": "Virginia",
-          "PostalCode": 72676,
-          "Country": "USA"
-        },
-        "email": "ameliachan@hinway.com",
-        "Name": [
-          {
-            "First": "Blanca",
-            "Middle": "Mclean",
-            "Last": "Dunn"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Unknown"
-      },
-      {
-        "Id": "5b199c275ce539d928926924",
-        "Location": "Here",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 418,
-          "City": "Here",
-          "State": "Virginia",
-          "PostalCode": 71644,
-          "Country": "USA"
-        },
-        "email": "mcleandunn@hinway.com",
-        "Name": [
-          {
-            "First": "Hill",
-            "Middle": "Kate",
-            "Last": "Carroll"
-          }
-        ],
-        "Gender": "female",
-        "Type": "Unknown"
-      },
-      {
-        "Id": "5b199c273e7d999250e2aa44",
-        "Location": "New York",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 435,
-          "City": "New York",
-          "State": "Florida",
-          "PostalCode": 33680,
-          "Country": "USA"
-        },
-        "email": "katecarroll@hinway.com",
-        "Name": [
-          {
-            "First": "Ashley",
-            "Middle": "Odom",
-            "Last": "Maxwell"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Undefined"
-      },
-      {
-        "Id": "5b199c27c0f6761c8bcc0e81",
-        "Location": "Here",
-        "Address": {
-          "Street": "Livingston",
-          "AptNum": 382,
-          "City": "Here",
-          "State": "Virginia",
-          "PostalCode": 39434,
-          "Country": "USA"
-        },
-        "email": "odommaxwell@hinway.com",
-        "Name": [
-          {
-            "First": "Lara",
-            "Middle": "Mcknight",
-            "Last": "Brennan"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Known"
-      },
-      {
-        "Id": "5b199c2705fee5884d11641a",
-        "Location": "Chicago",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 182,
-          "City": "Chicago",
-          "State": "Virginia",
-          "PostalCode": 18652,
-          "Country": "USA"
-        },
-        "email": "mcknightbrennan@hinway.com",
-        "Name": [
-          {
-            "First": "Lena",
-            "Middle": "Althea",
-            "Last": "Mathis"
-          }
-        ],
-        "Gender": "female",
-        "Type": "Unknown"
-      },
-      {
-        "Id": "5b199c27a440327023f6825c",
-        "Location": "New York",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 120,
-          "City": "New York",
-          "State": "Virginia",
-          "PostalCode": 98778,
-          "Country": "USA"
-        },
-        "email": "altheamathis@hinway.com",
-        "Name": [
-          {
-            "First": "Suzette",
-            "Middle": "Francis",
-            "Last": "Mathews"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Unknown"
-      },
-      {
-        "Id": "5b199c2735c88c62c9356d30",
-        "Location": "Valley",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 437,
-          "City": "Valley",
-          "State": "Florida",
-          "PostalCode": 98783,
-          "Country": "USA"
-        },
-        "email": "francismathews@hinway.com",
-        "Name": [
-          {
-            "First": "Kathryn",
-            "Middle": "Carla",
-            "Last": "Fernandez"
-          }
-        ],
-        "Gender": "female",
-        "Type": "Known"
-      },
-      {
-        "Id": "5b199c279ad2f3a172a61823",
-        "Location": "Denver",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 516,
-          "City": "Denver",
-          "State": "Florida",
-          "PostalCode": 62685,
-          "Country": "USA"
-        },
-        "email": "carlafernandez@hinway.com",
-        "Name": [
-          {
-            "First": "Black",
-            "Middle": "Mendoza",
-            "Last": "Trujillo"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Known"
-      },
-      {
-        "Id": "5b199c27cc950899de57ddb6",
-        "Location": "Denver",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 352,
-          "City": "Denver",
-          "State": "Florida",
-          "PostalCode": 13055,
-          "Country": "USA"
-        },
-        "email": "mendozatrujillo@hinway.com",
-        "Name": [
-          {
-            "First": "Ruthie",
-            "Middle": "Fuentes",
-            "Last": "Small"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Undefined"
-      },
-      {
-        "Id": "5b199c27831e55b3e0d5d506",
-        "Location": "Reston",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 121,
-          "City": "Reston",
-          "State": "Virginia",
-          "PostalCode": 30478,
-          "Country": "USA"
-        },
-        "email": "fuentessmall@hinway.com",
-        "Name": [
-          {
-            "First": "Alexander",
-            "Middle": "Bryan",
-            "Last": "Rowland"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Undefined"
-      },
-      {
-        "Id": "5b199c27ca70bfc851c295c1",
-        "Location": "Denver",
-        "Address": {
-          "Street": "Livingston",
-          "AptNum": 379,
-          "City": "Denver",
-          "State": "Virginia",
-          "PostalCode": 25261,
-          "Country": "USA"
-        },
-        "email": "bryanrowland@hinway.com",
-        "Name": [
-          {
-            "First": "Lowe",
-            "Middle": "Leta",
-            "Last": "Herring"
-          }
-        ],
-        "Gender": "female",
-        "Type": "Unknown"
-      },
-      {
-        "Id": "5b199c27b95005c98776571e",
-        "Location": "Miami",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 525,
-          "City": "Miami",
-          "State": "Florida",
-          "PostalCode": 81501,
-          "Country": "USA"
-        },
-        "email": "letaherring@hinway.com",
-        "Name": [
-          {
-            "First": "Sullivan",
-            "Middle": "Pennington",
-            "Last": "Mccullough"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Undefined"
-      },
-      {
-        "Id": "5b199c27e0bd55c1c99c29b3",
-        "Location": "Denver",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 536,
-          "City": "Denver",
-          "State": "Florida",
-          "PostalCode": 33154,
-          "Country": "USA"
-        },
-        "email": "penningtonmccullough@hinway.com",
-        "Name": [
-          {
-            "First": "Webb",
-            "Middle": "Brady",
-            "Last": "Dillon"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Known"
-      },
-      {
-        "Id": "5b199c278334897514bedf15",
-        "Location": "Denver",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 465,
-          "City": "Denver",
-          "State": "Florida",
-          "PostalCode": 55871,
-          "Country": "USA"
-        },
-        "email": "bradydillon@hinway.com",
-        "Name": [
-          {
-            "First": "Cunningham",
-            "Middle": "Helga",
-            "Last": "Holman"
-          }
-        ],
-        "Gender": "female",
-        "Type": "Undefined"
-      },
-      {
-        "Id": "5b199c27d60e10809a499c4f",
-        "Location": "Chicago",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 169,
-          "City": "Chicago",
-          "State": "Florida",
-          "PostalCode": 95318,
-          "Country": "USA"
-        },
-        "email": "helgaholman@hinway.com",
-        "Name": [
-          {
-            "First": "Benita",
-            "Middle": "Tate",
-            "Last": "Reese"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Unknown"
-      },
-      {
-        "Id": "5b199c27f3baccf479250da3",
-        "Location": "Valley",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 475,
-          "City": "Valley",
-          "State": "Virginia",
-          "PostalCode": 93793,
-          "Country": "USA"
-        },
-        "email": "tatereese@hinway.com",
-        "Name": [
-          {
-            "First": "Larsen",
-            "Middle": "Selena",
-            "Last": "Spears"
-          }
-        ],
-        "Gender": "female",
-        "Type": "Known"
-      },
-      {
-        "Id": "5b199c27cb1649cb9524eb13",
-        "Location": "Chicago",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 578,
-          "City": "Chicago",
-          "State": "Florida",
-          "PostalCode": 31127,
-          "Country": "USA"
-        },
-        "email": "selenaspears@hinway.com",
-        "Name": [
-          {
-            "First": "Navarro",
-            "Middle": "Nichols",
-            "Last": "Berg"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Known"
-      },
-      {
-        "Id": "5b199c276f338f5a2e60aa3a",
-        "Location": "Chicago",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 329,
-          "City": "Chicago",
-          "State": "Florida",
-          "PostalCode": 67017,
-          "Country": "USA"
-        },
-        "email": "nicholsberg@hinway.com",
-        "Name": [
-          {
-            "First": "Krystal",
-            "Middle": "Patrice",
-            "Last": "Meadows"
-          }
-        ],
-        "Gender": "female",
-        "Type": "Known"
-      },
-      {
-        "Id": "5b199c27e4890233bbd40ce4",
-        "Location": "Valley",
-        "Address": {
-          "Street": "Livingston",
-          "AptNum": 537,
-          "City": "Valley",
-          "State": "Florida",
-          "PostalCode": 48780,
-          "Country": "USA"
-        },
-        "email": "patricemeadows@hinway.com",
-        "Name": [
-          {
-            "First": "Haley",
-            "Middle": "Sherry",
-            "Last": "Collins"
-          }
-        ],
-        "Gender": "female",
-        "Type": "Undefined"
-      },
-      {
-        "Id": "5b199c27abe1cdf158d98d8a",
-        "Location": "Denver",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 363,
-          "City": "Denver",
-          "State": "Virginia",
-          "PostalCode": 71877,
-          "Country": "USA"
-        },
-        "email": "sherrycollins@hinway.com",
-        "Name": [
-          {
-            "First": "Carolina",
-            "Middle": "Shelton",
-            "Last": "Frank"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Known"
-      },
-      {
-        "Id": "5b199c27b0ad47262da4a47b",
-        "Location": "Chicago",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 360,
-          "City": "Chicago",
-          "State": "Virginia",
-          "PostalCode": 18293,
-          "Country": "USA"
-        },
-        "email": "sheltonfrank@hinway.com",
-        "Name": [
-          {
-            "First": "Park",
-            "Middle": "Bush",
-            "Last": "George"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Known"
-      },
-      {
-        "Id": "5b199c27a8b3aeb569baea19",
-        "Location": "Tampa",
-        "Address": {
-          "Street": "Fowler",
-          "AptNum": 494,
-          "City": "Tampa",
-          "State": "Virginia",
-          "PostalCode": 55565,
-          "Country": "USA"
-        },
-        "email": "bushgeorge@hinway.com",
-        "Name": [
-          {
-            "First": "Bernadette",
-            "Middle": "Everett",
-            "Last": "Mays"
-          }
-        ],
-        "Gender": "male",
-        "Type": "Undefined"
-      },
-      {
-        "Id": "5b199c27fc6fdf15faea38ce",
-        "Location": "Tampa",
-        "Address": {
-          "Street": "Bearss",
-          "AptNum": 109,
-          "City": "Tampa",
-          "State": "Virginia",
-          "PostalCode": 50696,
-          "Country": "USA"
-        },
-        "email": "everettmays@hinway.com",
-        "Name": [
-          {
-            "First": "Lara",
-            "Middle": "Catalina",
-            "Last": "Hughes"
-          }
-        ],
-        "Gender": "female",
-        "Type": "Undefined"
-      }
-    ]
-    }
-    
+	"Rooms": [
+		{
+			"RoomId": "1",
+			"Location": "Tampa",
+			"Address": {
+				"Street": "Livingston Ave",
+				"AptNum": "1209",
+				"City": "Lutz",
+				"State": "FL",
+				"PostalCode": "11111",
+				"Country": "USA"
+			},
+			"Vacancy": 2,
+			"Occupancy": 4,
+			"Gender": "M"
+		},
+		{
+			"RoomId": "2",
+			"Location": "Tampa",
+			"Address": {
+				"Street": "Livingston Ave",
+				"AptNum": "1200",
+				"City": "Lutz",
+				"State": "FL",
+				"PostalCode": "11111",
+				"Country": "USA"
+			},
+			"Vacancy": 3,
+			"Occupancy": 3,
+			"Gender": "M"
+		},
+		{
+			"RoomId": "3",
+			"Location": "Tampa",
+			"Address": {
+				"Street": "Bellarmin St.",
+				"AptNum": "0000",
+				"City": "Tampa",
+				"State": "FL",
+				"PostalCode": "11112",
+				"Country": "USA"
+			},
+			"Vacancy": 4,
+			"Occupancy": 2,
+			"Gender": "F"
+		},
+		{
+			"RoomId": "4",
+			"Location": "Tampa",
+			"Address": {
+				"Street": "Bellarmin St.",
+				"AptNum": "0010",
+				"City": "Tampa",
+				"State": "FL",
+				"PostalCode": "11112",
+				"Country": "USA"
+			},
+			"Vacancy": 5,
+			"Occupancy": 1,
+			"Gender": "M"
+		},
+		{
+			"RoomId": "5",
+			"Location": "Tampa",
+			"Address": {
+				"Street": "Bellarmin St.",
+				"AptNum": "0020",
+				"City": "Tampa",
+				"State": "FL",
+				"PostalCode": "11112",
+				"Country": "USA"
+			},
+			"Vacancy": 0,
+			"Occupancy": 6,
+			"Gender": "M"
+		},
+		{
+			"RoomId": "6",
+			"Location": "Tampa",
+			"Address": {
+				"Street": "Bellarmin St.",
+				"AptNum": "0020",
+				"City": "Tampa",
+				"State": "FL",
+				"PostalCode": "11112",
+				"Country": "USA"
+			},
+			"Vacancy": 0,
+			"Occupancy": 6,
+			"Gender": "M"
+		}
+	],
+	
+	"Users": [
+		{
+			"Id": 1,
+			"Location": "Here",
+			"Address": {
+			  "Street": "Angular Main Rd",
+			  "AptNum": "3",
+			  "City": "Tampa",
+			  "State": "Florida",
+			  "PostalCode": "98798",
+			  "Country": "USA"
+			},
+			"Email": "email@gmail.com",
+			"Name": {
+			  "First": "You",
+			  "Middle": "o",
+			  "Last": "Kot"
+			},
+			"Gender": "F",
+			"Type": "Unknown"
+		  },
+		  {
+			"Id": 2,
+			"Location": "There",
+			"Address": {
+			  "Street": "C# Main Rd",
+			  "AptNum": "31",
+			  "City": "Tampa",
+			  "State": "Florida",
+			  "PostalCode": "98798",
+			  "Country": "USA"
+			},
+			"Email": "email@yahoo.com",
+			"Name": {
+			  "First": "Me",
+			  "Middle": "o",
+			  "Last": "Ko"
+			},
+			"Gender": "M",
+			"Type": "Known"
+		  },
+		  {
+			"Id": 3,
+			"Location": "Nowhere",
+			"Address": {
+			  "Street": "Dotnet Main St",
+			  "AptNum": "314",
+			  "City": "Tampa",
+			  "State": "Florida",
+			  "PostalCode": "98790",
+			  "Country": "USA"
+			},
+			"Email": "email@revature.com",
+			"Name": {
+			  "First": "Who",
+			  "Middle": "o",
+			  "Last": "K"
+			},
+			"Gender": "F",
+			"Type": "Unknown"
+		  }
+	  ]
+}
