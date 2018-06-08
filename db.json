@@ -1,157 +1,267 @@
 {
-	"Rooms": [
-		{
-			"RoomId": "1",
-			"Location": "Tampa",
-			"Address": {
-				"Street": "Livingston Ave",
-				"AptNum": "1209",
-				"City": "Lutz",
-				"State": "FL",
-				"PostalCode": "11111",
-				"Country": "USA"
-			},
-			"Vacancy": 2,
-			"Occupancy": 4,
-			"Gender": "M"
-		},
-		{
-			"RoomId": "2",
-			"Location": "Tampa",
-			"Address": {
-				"Street": "Livingston Ave",
-				"AptNum": "1200",
-				"City": "Lutz",
-				"State": "FL",
-				"PostalCode": "11111",
-				"Country": "USA"
-			},
-			"Vacancy": 3,
-			"Occupancy": 3,
-			"Gender": "M"
-		},
-		{
-			"RoomId": "3",
-			"Location": "Tampa",
-			"Address": {
-				"Street": "Bellarmin St.",
-				"AptNum": "0000",
-				"City": "Tampa",
-				"State": "FL",
-				"PostalCode": "11112",
-				"Country": "USA"
-			},
-			"Vacancy": 4,
-			"Occupancy": 2,
-			"Gender": "F"
-		},
-		{
-			"RoomId": "4",
-			"Location": "Tampa",
-			"Address": {
-				"Street": "Bellarmin St.",
-				"AptNum": "0010",
-				"City": "Tampa",
-				"State": "FL",
-				"PostalCode": "11112",
-				"Country": "USA"
-			},
-			"Vacancy": 5,
-			"Occupancy": 1,
-			"Gender": "M"
-		},
-		{
-			"RoomId": "5",
-			"Location": "Tampa",
-			"Address": {
-				"Street": "Bellarmin St.",
-				"AptNum": "0020",
-				"City": "Tampa",
-				"State": "FL",
-				"PostalCode": "11112",
-				"Country": "USA"
-			},
-			"Vacancy": 0,
-			"Occupancy": 6,
-			"Gender": "M"
-		},
-		{
-			"RoomId": "6",
-			"Location": "Tampa",
-			"Address": {
-				"Street": "Bellarmin St.",
-				"AptNum": "0020",
-				"City": "Tampa",
-				"State": "FL",
-				"PostalCode": "11112",
-				"Country": "USA"
-			},
-			"Vacancy": 0,
-			"Occupancy": 6,
-			"Gender": "M"
-		}
-	],
-	
-	"Users": [
-		{
-			"Id": 1,
-			"Location": "Here",
-			"Address": {
-			  "Street": "Angular Main Rd",
-			  "AptNum": "3",
-			  "City": "Tampa",
-			  "State": "Florida",
-			  "PostalCode": "98798",
-			  "Country": "USA"
-			},
-			"Email": "email@gmail.com",
-			"Name": {
-			  "First": "You",
-			  "Middle": "o",
-			  "Last": "Kot"
-			},
-			"Gender": "F",
-			"Type": "Unknown"
-		  },
-		  {
-			"Id": 2,
-			"Location": "There",
-			"Address": {
-			  "Street": "C# Main Rd",
-			  "AptNum": "31",
-			  "City": "Tampa",
-			  "State": "Florida",
-			  "PostalCode": "98798",
-			  "Country": "USA"
-			},
-			"Email": "email@yahoo.com",
-			"Name": {
-			  "First": "Me",
-			  "Middle": "o",
-			  "Last": "Ko"
-			},
-			"Gender": "M",
-			"Type": "Known"
-		  },
-		  {
-			"Id": 3,
-			"Location": "Nowhere",
-			"Address": {
-			  "Street": "Dotnet Main St",
-			  "AptNum": "314",
-			  "City": "Tampa",
-			  "State": "Florida",
-			  "PostalCode": "98790",
-			  "Country": "USA"
-			},
-			"Email": "email@revature.com",
-			"Name": {
-			  "First": "Who",
-			  "Middle": "o",
-			  "Last": "K"
-			},
-			"Gender": "F",
-			"Type": "Unknown"
-		  }
-	  ]
-}
+  "Rooms": [
+    {
+      "RoomId": "5b1a9707152cae3b4e80027d",
+      "Location": "Valley",
+      "Address": {
+        "Street": "Bearss",
+        "AptNum": 485,
+        "City": "Valley",
+        "State": "Florida",
+        "PostalCode": 85771,
+        "Country": "USA"
+      },
+      "Vacancy": 1,
+      "Occupancy": 5,
+      "Gender": "female"
+    },
+    {
+      "RoomId": "5b1a97076ca2c34e23f62f5c",
+      "Location": "Denver",
+      "Address": {
+        "Street": "Livingston",
+        "AptNum": 318,
+        "City": "Denver",
+        "State": "Florida",
+        "PostalCode": 23366,
+        "Country": "USA"
+      },
+      "Vacancy": 6,
+      "Occupancy": 0,
+      "Gender": "female"
+    },
+    {
+      "RoomId": "5b1a9707c0673dec253bbe82",
+      "Location": "Reston",
+      "Address": {
+        "Street": "Livingston",
+        "AptNum": 506,
+        "City": "Reston",
+        "State": "Virginia",
+        "PostalCode": 66479,
+        "Country": "USA"
+      },
+      "Vacancy": 6,
+      "Occupancy": 0,
+      "Gender": "female"
+    },
+    {
+      "RoomId": "5b1a970735fe7d2d674bbd88",
+      "Location": "Reston",
+      "Address": {
+        "Street": "Fowler",
+        "AptNum": 138,
+        "City": "Reston",
+        "State": "Virginia",
+        "PostalCode": 31908,
+        "Country": "USA"
+      },
+      "Vacancy": 5,
+      "Occupancy": 1,
+      "Gender": "male"
+    },
+    {
+      "RoomId": "5b1a9707e773a3189aab0c00",
+      "Location": "Here",
+      "Address": {
+        "Street": "Livingston",
+        "AptNum": 446,
+        "City": "Here",
+        "State": "Florida",
+        "PostalCode": 56862,
+        "Country": "USA"
+      },
+      "Vacancy": 1,
+      "Occupancy": 5,
+      "Gender": "female"
+    },
+    {
+      "RoomId": "5b1a97073a4711604bc16310",
+      "Location": "New York",
+      "Address": {
+        "Street": "Fowler",
+        "AptNum": 415,
+        "City": "New York",
+        "State": "Virginia",
+        "PostalCode": 14309,
+        "Country": "USA"
+      },
+      "Vacancy": 1,
+      "Occupancy": 5,
+      "Gender": "male"
+    },
+    {
+      "RoomId": "5b1a9707ae08bc716c144969",
+      "Location": "New York",
+      "Address": {
+        "Street": "Fowler",
+        "AptNum": 287,
+        "City": "New York",
+        "State": "Florida",
+        "PostalCode": 83056,
+        "Country": "USA"
+      },
+      "Vacancy": 0,
+      "Occupancy": 6,
+      "Gender": "male"
+    },
+    {
+      "RoomId": "5b1a97072210ebcb4d9bb275",
+      "Location": "Reston",
+      "Address": {
+        "Street": "Bearss",
+        "AptNum": 596,
+        "City": "Reston",
+        "State": "Virginia",
+        "PostalCode": 54950,
+        "Country": "USA"
+      },
+      "Vacancy": 5,
+      "Occupancy": 1,
+      "Gender": "male"
+    },
+    {
+      "RoomId": "5b1a970701756177f5e9ac18",
+      "Location": "New York",
+      "Address": {
+        "Street": "Bearss",
+        "AptNum": 232,
+        "City": "New York",
+        "State": "Virginia",
+        "PostalCode": 27424,
+        "Country": "USA"
+      },
+      "Vacancy": 3,
+      "Occupancy": 3,
+      "Gender": "male"
+    },
+    {
+      "RoomId": "5b1a97073e113c7444175486",
+      "Location": "Chicago",
+      "Address": {
+        "Street": "Fowler",
+        "AptNum": 569,
+        "City": "Chicago",
+        "State": "Virginia",
+        "PostalCode": 88465,
+        "Country": "USA"
+      },
+      "Vacancy": 5,
+      "Occupancy": 1,
+      "Gender": "male"
+    }
+  ],
+  "Users": 
+  [
+    {
+      "Id": "5b1a978b25cd0a7be99de276",
+      "Location": "Valley",
+      "Address": {
+        "Street": "Bearss",
+        "AptNum": 424,
+        "City": "Valley",
+        "State": "Florida",
+        "PostalCode": 28530,
+        "Country": "USA"
+      },
+      "email": "elizabethbooth@inear.com",
+      "Name": [
+        {
+          "First": "Ewing",
+          "Middle": "Chaney",
+          "Last": "Mercer"
+        }
+      ],
+      "Gender": "male",
+      "Type": "Unknown"
+    },
+    {
+      "Id": "5b1a978b084974736434a2ca",
+      "Location": "Here",
+      "Address": {
+        "Street": "Livingston",
+        "AptNum": 125,
+        "City": "Here",
+        "State": "Florida",
+        "PostalCode": 92771,
+        "Country": "USA"
+      },
+      "email": "chaneymercer@inear.com",
+      "Name": [
+        {
+          "First": "Francesca",
+          "Middle": "Lynne",
+          "Last": "Stephenson"
+        }
+      ],
+      "Gender": "female",
+      "Type": "Known"
+    },
+    {
+      "Id": "5b1a978b063f3c60eb305a6f",
+      "Location": "Miami",
+      "Address": {
+        "Street": "Livingston",
+        "AptNum": 474,
+        "City": "Miami",
+        "State": "Virginia",
+        "PostalCode": 31607,
+        "Country": "USA"
+      },
+      "email": "lynnestephenson@inear.com",
+      "Name": [
+        {
+          "First": "Reid",
+          "Middle": "Leanna",
+          "Last": "Watts"
+        }
+      ],
+      "Gender": "female",
+      "Type": "Known"
+    },
+    {
+      "Id": "5b1a978bba2b80c2d84cf63f",
+      "Location": "Miami",
+      "Address": {
+        "Street": "Bearss",
+        "AptNum": 411,
+        "City": "Miami",
+        "State": "Virginia",
+        "PostalCode": 87488,
+        "Country": "USA"
+      },
+      "email": "leannawatts@inear.com",
+      "Name": [
+        {
+          "First": "Shelly",
+          "Middle": "Annmarie",
+          "Last": "Terry"
+        }
+      ],
+      "Gender": "female",
+      "Type": "Unknown"
+    },
+    {
+      "Id": "5b1a978bfd3206d000b8b2fb",
+      "Location": "Here",
+      "Address": {
+        "Street": "Fowler",
+        "AptNum": 289,
+        "City": "Here",
+        "State": "Florida",
+        "PostalCode": 41519,
+        "Country": "USA"
+      },
+      "email": "annmarieterry@inear.com",
+      "Name": [
+        {
+          "First": "Alisa",
+          "Middle": "Cherie",
+          "Last": "Nieves"
+        }
+      ],
+      "Gender": "female",
+      "Type": "Known"
+    }
+  ]
+  }
