@@ -154,252 +154,232 @@
   "Users": 
   [
     {
-      "id": "5b1feb4ed7da224bfad028da",
-      "location": "Miami",
-      "email": "tamerasheppard@ultrimax.com",
-      "gender": "female",
-      "type": "Undefined",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4eb063ba92f39b2eb7",
-          "first": "Francesca",
-          "middle": "Ora",
-          "last": "Combs"
-        }
-      ],
-      "address": {
-        "address1": "Livingston",
-        "address2": 186,
-        "city": "Miami",
-        "state": "Florida",
-        "postalCode": 68071,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4e4a529de84f3467d8",
-      "location": "Miami",
-      "email": "oracombs@ultrimax.com",
-      "gender": "female",
-      "type": "Undefined",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4e4d0e43e38babb9d8",
-          "first": "English",
-          "middle": "Dyer",
-          "last": "Crawford"
-        }
-      ],
-      "address": {
-        "address1": "Livingston",
-        "address2": 248,
-        "city": "Miami",
-        "state": "Florida",
-        "postalCode": 56114,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4e690142b5dedfa861",
-      "location": "Here",
-      "email": "dyercrawford@ultrimax.com",
-      "gender": "male",
-      "type": "Known",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4ec520879c17e845cc",
-          "first": "Sofia",
-          "middle": "Erin",
-          "last": "Jacobs"
-        }
-      ],
-      "address": {
-        "address1": "Fowler",
-        "address2": 435,
-        "city": "Here",
-        "state": "Florida",
-        "postalCode": 37168,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4ebd935d55b689604d",
-      "location": "Reston",
-      "email": "erinjacobs@ultrimax.com",
-      "gender": "female",
-      "type": "Known",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4ee3208da847d54384",
-          "first": "Marquez",
-          "middle": "Estella",
-          "last": "Gibson"
-        }
-      ],
-      "address": {
-        "address1": "Fowler",
-        "address2": 458,
-        "city": "Reston",
-        "state": "Virginia",
-        "postalCode": 60975,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4ef8dcf95d636a2de9",
-      "location": "Here",
-      "email": "estellagibson@ultrimax.com",
-      "gender": "female",
-      "type": "Known",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4e89d87ef938cb98ca",
-          "first": "Marilyn",
-          "middle": "Hurst",
-          "last": "Shelton"
-        }
-      ],
-      "address": {
-        "address1": "Fowler",
-        "address2": 363,
-        "city": "Here",
-        "state": "Florida",
-        "postalCode": 41916,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4efb529917a5a63595",
-      "location": "New York",
-      "email": "hurstshelton@ultrimax.com",
+      "id": "5b1ffa5b722aaf457bd4d4e4",
+      "location": "Chicago",
+      "email": "dyergrant@ultrimax.com",
       "gender": "male",
       "type": "Unknown",
       "batch": null,
       "room": null,
-      "name": [
-        {
-          "id": "5b1feb4e6db294047aa9eece",
-          "first": "Cash",
-          "middle": "Trudy",
-          "last": "Manning"
-        }
-      ],
+      "name": {
+        "id": "5b1ffa5b140ffdfea5a0def1",
+        "first": "Delia",
+        "middle": "Mcfadden",
+        "last": "Golden"
+      },
       "address": {
-        "address1": "Livingston",
-        "address2": 157,
-        "city": "New York",
-        "state": "Florida",
-        "postalCode": 36863,
+        "address1": "Fowler",
+        "address2": 595,
+        "city": "Chicago",
+        "state": "Virginia",
+        "postalCode": 86081,
         "country": "USA"
       }
     },
     {
-      "id": "5b1feb4e073fe2522db6c0ae",
+      "id": "5b1ffa5b8a1d6a3a16a865a5",
+      "location": "Here",
+      "email": "mcfaddengolden@ultrimax.com",
+      "gender": "male",
+      "type": "Known",
+      "batch": null,
+      "room": null,
+      "name": {
+        "id": "5b1ffa5b37021f58c705bdd9",
+        "first": "Mcintyre",
+        "middle": "Tabitha",
+        "last": "Ashley"
+      },
+      "address": {
+        "address1": "Fowler",
+        "address2": 135,
+        "city": "Here",
+        "state": "Florida",
+        "postalCode": 35897,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1ffa5ba6d5140cf8ef59da",
+      "location": "Reston",
+      "email": "tabithaashley@ultrimax.com",
+      "gender": "female",
+      "type": "Unknown",
+      "batch": null,
+      "room": null,
+      "name": {
+        "id": "5b1ffa5bb0904dd66ef2fa23",
+        "first": "Geraldine",
+        "middle": "Sabrina",
+        "last": "Palmer"
+      },
+      "address": {
+        "address1": "Bearss",
+        "address2": 295,
+        "city": "Reston",
+        "state": "Florida",
+        "postalCode": 80522,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1ffa5bf7f8adf9e05069f7",
+      "location": "Miami",
+      "email": "sabrinapalmer@ultrimax.com",
+      "gender": "female",
+      "type": "Known",
+      "batch": null,
+      "room": null,
+      "name": {
+        "id": "5b1ffa5bd9f9f7a893ad6f78",
+        "first": "Claudia",
+        "middle": "Brenda",
+        "last": "Bowman"
+      },
+      "address": {
+        "address1": "Livingston",
+        "address2": 515,
+        "city": "Miami",
+        "state": "Virginia",
+        "postalCode": 91818,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1ffa5b5c8e1d32517ea7ef",
+      "location": "Valley",
+      "email": "brendabowman@ultrimax.com",
+      "gender": "female",
+      "type": "Unknown",
+      "batch": null,
+      "room": null,
+      "name": {
+        "id": "5b1ffa5b9b9d5ec2bca7c627",
+        "first": "Bartlett",
+        "middle": "House",
+        "last": "Parsons"
+      },
+      "address": {
+        "address1": "Livingston",
+        "address2": 365,
+        "city": "Valley",
+        "state": "Florida",
+        "postalCode": 51779,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1ffa5bc4d5ac1d3e07d6eb",
+      "location": "Miami",
+      "email": "houseparsons@ultrimax.com",
+      "gender": "male",
+      "type": "Undefined",
+      "batch": null,
+      "room": null,
+      "name": {
+        "id": "5b1ffa5bec075a48e0f2c919",
+        "first": "Avery",
+        "middle": "Owens",
+        "last": "Cash"
+      },
+      "address": {
+        "address1": "Livingston",
+        "address2": 180,
+        "city": "Miami",
+        "state": "Florida",
+        "postalCode": 15538,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1ffa5b722d696c4f168f1d",
       "location": "Tampa",
-      "email": "trudymanning@ultrimax.com",
+      "email": "owenscash@ultrimax.com",
+      "gender": "male",
+      "type": "Undefined",
+      "batch": null,
+      "room": null,
+      "name": {
+        "id": "5b1ffa5b8768edb95cbf2c66",
+        "first": "Clay",
+        "middle": "Christina",
+        "last": "Reynolds"
+      },
+      "address": {
+        "address1": "Bearss",
+        "address2": 397,
+        "city": "Tampa",
+        "state": "Florida",
+        "postalCode": 43709,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1ffa5bc3ec48ba229b2984",
+      "location": "New York",
+      "email": "christinareynolds@ultrimax.com",
+      "gender": "female",
+      "type": "Known",
+      "batch": null,
+      "room": null,
+      "name": {
+        "id": "5b1ffa5bfda2ba80b9b95dcc",
+        "first": "Dominique",
+        "middle": "Kayla",
+        "last": "Walsh"
+      },
+      "address": {
+        "address1": "Livingston",
+        "address2": 527,
+        "city": "New York",
+        "state": "Virginia",
+        "postalCode": 24173,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1ffa5bd71a831ba5cc51f7",
+      "location": "New York",
+      "email": "kaylawalsh@ultrimax.com",
       "gender": "female",
       "type": "Undefined",
       "batch": null,
       "room": null,
-      "name": [
-        {
-          "id": "5b1feb4e19b0484e055f1688",
-          "first": "Lorna",
-          "middle": "Lauren",
-          "last": "Langley"
-        }
-      ],
-      "address": {
-        "address1": "Livingston",
-        "address2": 534,
-        "city": "Tampa",
-        "state": "Virginia",
-        "postalCode": 47897,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4e527635c9c9940667",
-      "location": "Here",
-      "email": "laurenlangley@ultrimax.com",
-      "gender": "female",
-      "type": "Known",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4ec233c68a2131ce4e",
-          "first": "Rena",
-          "middle": "Angelina",
-          "last": "Odom"
-        }
-      ],
-      "address": {
-        "address1": "Livingston",
-        "address2": 184,
-        "city": "Here",
-        "state": "Florida",
-        "postalCode": 42178,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4eecf283940f92aaa2",
-      "location": "Denver",
-      "email": "angelinaodom@ultrimax.com",
-      "gender": "female",
-      "type": "Known",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4e8df5a6d7af068bf4",
-          "first": "Silva",
-          "middle": "Stacey",
-          "last": "Holcomb"
-        }
-      ],
-      "address": {
-        "address1": "Livingston",
-        "address2": 294,
-        "city": "Denver",
-        "state": "Florida",
-        "postalCode": 54270,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4ee9e4bcbc726a44e7",
-      "location": "New York",
-      "email": "staceyholcomb@ultrimax.com",
-      "gender": "female",
-      "type": "Known",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4e49b30d18619c0cb8",
-          "first": "Mack",
-          "middle": "Carmela",
-          "last": "Sanford"
-        }
-      ],
+      "name": {
+        "id": "5b1ffa5bd1ff77a85be87fcd",
+        "first": "Donovan",
+        "middle": "Travis",
+        "last": "Russell"
+      },
       "address": {
         "address1": "Bearss",
-        "address2": 380,
+        "address2": 424,
         "city": "New York",
+        "state": "Florida",
+        "postalCode": 96307,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1ffa5b79946eeb6cea2af5",
+      "location": "Chicago",
+      "email": "travisrussell@ultrimax.com",
+      "gender": "male",
+      "type": "Unknown",
+      "batch": null,
+      "room": null,
+      "name": {
+        "id": "5b1ffa5b8a97976150f03b11",
+        "first": "Robert",
+        "middle": "Ina",
+        "last": "Leblanc"
+      },
+      "address": {
+        "address1": "Bearss",
+        "address2": 324,
+        "city": "Chicago",
         "state": "Virginia",
-        "postalCode": 87593,
+        "postalCode": 99979,
         "country": "USA"
       }
     }
