@@ -154,114 +154,254 @@
   "Users": 
   [
     {
-      "Id": "5b1a978b25cd0a7be99de276",
-      "Location": "Valley",
-      "Address": {
-        "Street": "Bearss",
-        "AptNum": 424,
-        "City": "Valley",
-        "State": "Florida",
-        "PostalCode": 28530,
-        "Country": "USA"
-      },
-      "email": "elizabethbooth@inear.com",
-      "Name": [
+      "id": "5b1feb4ed7da224bfad028da",
+      "location": "Miami",
+      "email": "tamerasheppard@ultrimax.com",
+      "gender": "female",
+      "type": "Undefined",
+      "batch": null,
+      "room": null,
+      "name": [
         {
-          "First": "Ewing",
-          "Middle": "Chaney",
-          "Last": "Mercer"
+          "id": "5b1feb4eb063ba92f39b2eb7",
+          "first": "Francesca",
+          "middle": "Ora",
+          "last": "Combs"
         }
       ],
-      "Gender": "male",
-      "Type": "Unknown"
+      "address": {
+        "address1": "Livingston",
+        "address2": 186,
+        "city": "Miami",
+        "state": "Florida",
+        "postalCode": 68071,
+        "country": "USA"
+      }
     },
     {
-      "Id": "5b1a978b084974736434a2ca",
-      "Location": "Here",
-      "Address": {
-        "Street": "Livingston",
-        "AptNum": 125,
-        "City": "Here",
-        "State": "Florida",
-        "PostalCode": 92771,
-        "Country": "USA"
-      },
-      "email": "chaneymercer@inear.com",
-      "Name": [
+      "id": "5b1feb4e4a529de84f3467d8",
+      "location": "Miami",
+      "email": "oracombs@ultrimax.com",
+      "gender": "female",
+      "type": "Undefined",
+      "batch": null,
+      "room": null,
+      "name": [
         {
-          "First": "Francesca",
-          "Middle": "Lynne",
-          "Last": "Stephenson"
+          "id": "5b1feb4e4d0e43e38babb9d8",
+          "first": "English",
+          "middle": "Dyer",
+          "last": "Crawford"
         }
       ],
-      "Gender": "female",
-      "Type": "Known"
+      "address": {
+        "address1": "Livingston",
+        "address2": 248,
+        "city": "Miami",
+        "state": "Florida",
+        "postalCode": 56114,
+        "country": "USA"
+      }
     },
     {
-      "Id": "5b1a978b063f3c60eb305a6f",
-      "Location": "Miami",
-      "Address": {
-        "Street": "Livingston",
-        "AptNum": 474,
-        "City": "Miami",
-        "State": "Virginia",
-        "PostalCode": 31607,
-        "Country": "USA"
-      },
-      "email": "lynnestephenson@inear.com",
-      "Name": [
+      "id": "5b1feb4e690142b5dedfa861",
+      "location": "Here",
+      "email": "dyercrawford@ultrimax.com",
+      "gender": "male",
+      "type": "Known",
+      "batch": null,
+      "room": null,
+      "name": [
         {
-          "First": "Reid",
-          "Middle": "Leanna",
-          "Last": "Watts"
+          "id": "5b1feb4ec520879c17e845cc",
+          "first": "Sofia",
+          "middle": "Erin",
+          "last": "Jacobs"
         }
       ],
-      "Gender": "female",
-      "Type": "Known"
+      "address": {
+        "address1": "Fowler",
+        "address2": 435,
+        "city": "Here",
+        "state": "Florida",
+        "postalCode": 37168,
+        "country": "USA"
+      }
     },
     {
-      "Id": "5b1a978bba2b80c2d84cf63f",
-      "Location": "Miami",
-      "Address": {
-        "Street": "Bearss",
-        "AptNum": 411,
-        "City": "Miami",
-        "State": "Virginia",
-        "PostalCode": 87488,
-        "Country": "USA"
-      },
-      "email": "leannawatts@inear.com",
-      "Name": [
+      "id": "5b1feb4ebd935d55b689604d",
+      "location": "Reston",
+      "email": "erinjacobs@ultrimax.com",
+      "gender": "female",
+      "type": "Known",
+      "batch": null,
+      "room": null,
+      "name": [
         {
-          "First": "Shelly",
-          "Middle": "Annmarie",
-          "Last": "Terry"
+          "id": "5b1feb4ee3208da847d54384",
+          "first": "Marquez",
+          "middle": "Estella",
+          "last": "Gibson"
         }
       ],
-      "Gender": "female",
-      "Type": "Unknown"
+      "address": {
+        "address1": "Fowler",
+        "address2": 458,
+        "city": "Reston",
+        "state": "Virginia",
+        "postalCode": 60975,
+        "country": "USA"
+      }
     },
     {
-      "Id": "5b1a978bfd3206d000b8b2fb",
-      "Location": "Here",
-      "Address": {
-        "Street": "Fowler",
-        "AptNum": 289,
-        "City": "Here",
-        "State": "Florida",
-        "PostalCode": 41519,
-        "Country": "USA"
-      },
-      "email": "annmarieterry@inear.com",
-      "Name": [
+      "id": "5b1feb4ef8dcf95d636a2de9",
+      "location": "Here",
+      "email": "estellagibson@ultrimax.com",
+      "gender": "female",
+      "type": "Known",
+      "batch": null,
+      "room": null,
+      "name": [
         {
-          "First": "Alisa",
-          "Middle": "Cherie",
-          "Last": "Nieves"
+          "id": "5b1feb4e89d87ef938cb98ca",
+          "first": "Marilyn",
+          "middle": "Hurst",
+          "last": "Shelton"
         }
       ],
-      "Gender": "female",
-      "Type": "Known"
+      "address": {
+        "address1": "Fowler",
+        "address2": 363,
+        "city": "Here",
+        "state": "Florida",
+        "postalCode": 41916,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1feb4efb529917a5a63595",
+      "location": "New York",
+      "email": "hurstshelton@ultrimax.com",
+      "gender": "male",
+      "type": "Unknown",
+      "batch": null,
+      "room": null,
+      "name": [
+        {
+          "id": "5b1feb4e6db294047aa9eece",
+          "first": "Cash",
+          "middle": "Trudy",
+          "last": "Manning"
+        }
+      ],
+      "address": {
+        "address1": "Livingston",
+        "address2": 157,
+        "city": "New York",
+        "state": "Florida",
+        "postalCode": 36863,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1feb4e073fe2522db6c0ae",
+      "location": "Tampa",
+      "email": "trudymanning@ultrimax.com",
+      "gender": "female",
+      "type": "Undefined",
+      "batch": null,
+      "room": null,
+      "name": [
+        {
+          "id": "5b1feb4e19b0484e055f1688",
+          "first": "Lorna",
+          "middle": "Lauren",
+          "last": "Langley"
+        }
+      ],
+      "address": {
+        "address1": "Livingston",
+        "address2": 534,
+        "city": "Tampa",
+        "state": "Virginia",
+        "postalCode": 47897,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1feb4e527635c9c9940667",
+      "location": "Here",
+      "email": "laurenlangley@ultrimax.com",
+      "gender": "female",
+      "type": "Known",
+      "batch": null,
+      "room": null,
+      "name": [
+        {
+          "id": "5b1feb4ec233c68a2131ce4e",
+          "first": "Rena",
+          "middle": "Angelina",
+          "last": "Odom"
+        }
+      ],
+      "address": {
+        "address1": "Livingston",
+        "address2": 184,
+        "city": "Here",
+        "state": "Florida",
+        "postalCode": 42178,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1feb4eecf283940f92aaa2",
+      "location": "Denver",
+      "email": "angelinaodom@ultrimax.com",
+      "gender": "female",
+      "type": "Known",
+      "batch": null,
+      "room": null,
+      "name": [
+        {
+          "id": "5b1feb4e8df5a6d7af068bf4",
+          "first": "Silva",
+          "middle": "Stacey",
+          "last": "Holcomb"
+        }
+      ],
+      "address": {
+        "address1": "Livingston",
+        "address2": 294,
+        "city": "Denver",
+        "state": "Florida",
+        "postalCode": 54270,
+        "country": "USA"
+      }
+    },
+    {
+      "id": "5b1feb4ee9e4bcbc726a44e7",
+      "location": "New York",
+      "email": "staceyholcomb@ultrimax.com",
+      "gender": "female",
+      "type": "Known",
+      "batch": null,
+      "room": null,
+      "name": [
+        {
+          "id": "5b1feb4e49b30d18619c0cb8",
+          "first": "Mack",
+          "middle": "Carmela",
+          "last": "Sanford"
+        }
+      ],
+      "address": {
+        "address1": "Bearss",
+        "address2": 380,
+        "city": "New York",
+        "state": "Virginia",
+        "postalCode": 87593,
+        "country": "USA"
+      }
     }
   ]
   }
