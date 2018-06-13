@@ -1,152 +1,152 @@
 {
   "Rooms": [
     {
-      "roomId": "5b213785c13d798f200a4e55",
-      "location": "Reston",
-      "vacancy": 2,
-      "occupancy": 4,
-      "gender": "female",
-      "address": {
-        "address1": "Livingston",
-        "address2": 338,
-        "city": "<ReferenceError: loc is not defined>",
-        "state": "Virginia",
-        "postalCode": 27711,
-        "country": "USA"
-      }
-    },
-    {
-      "roomId": "5b21378522c5a21805a5d826",
-      "location": "Reston",
-      "vacancy": 4,
-      "occupancy": 2,
-      "gender": "male",
-      "address": {
-        "address1": "Fowler",
-        "address2": 316,
-        "city": "<ReferenceError: loc is not defined>",
-        "state": "Virginia",
-        "postalCode": 83296,
-        "country": "USA"
-      }
-    },
-    {
-      "roomId": "5b213785d1ac9a80b3edc2d4",
-      "location": "Tampa",
-      "vacancy": 5,
-      "occupancy": 1,
-      "gender": "male",
-      "address": {
-        "address1": "Bearss",
-        "address2": 266,
-        "city": "<ReferenceError: loc is not defined>",
-        "state": "Florida",
-        "postalCode": 42351,
-        "country": "USA"
-      }
-    },
-    {
-      "roomId": "5b213785b02e1f8ef0d1108f",
-      "location": "Reston",
+      "roomId": "5b213dfec8fd80d39bfdcdad",
+      "location": "Miami",
       "vacancy": 4,
       "occupancy": 2,
       "gender": "female",
       "address": {
         "address1": "Fowler",
-        "address2": 336,
-        "city": "<ReferenceError: loc is not defined>",
+        "address2": 541,
+        "city": "Miami",
         "state": "Virginia",
-        "postalCode": 83592,
+        "postalCode": 22785,
         "country": "USA"
       }
     },
     {
-      "roomId": "5b21378576c100a5aa311799",
-      "location": "Tampa",
+      "roomId": "5b213dfe461be4a5fcd742bb",
+      "location": "Reston",
       "vacancy": 1,
       "occupancy": 5,
       "gender": "male",
       "address": {
-        "address1": "Fowler",
-        "address2": 364,
-        "city": "<ReferenceError: loc is not defined>",
-        "state": "Florida",
-        "postalCode": 63794,
+        "address1": "Livingston",
+        "address2": 439,
+        "city": "Reston",
+        "state": "Virginia",
+        "postalCode": 80598,
         "country": "USA"
       }
     },
     {
-      "roomId": "5b21378516f12cc4b3456d36",
-      "location": "Reston",
-      "vacancy": 3,
-      "occupancy": 3,
+      "roomId": "5b213dfeda4cda009a322f1f",
+      "location": "Miami",
+      "vacancy": 4,
+      "occupancy": 2,
       "gender": "male",
       "address": {
         "address1": "Bearss",
-        "address2": 330,
-        "city": "<ReferenceError: loc is not defined>",
+        "address2": 427,
+        "city": "Miami",
         "state": "Virginia",
-        "postalCode": 37395,
+        "postalCode": 61066,
         "country": "USA"
       }
     },
     {
-      "roomId": "5b213785f74569f63c480b93",
-      "location": "Reston",
-      "vacancy": 4,
-      "occupancy": 2,
+      "roomId": "5b213dfe4ffe1a22987b3f60",
+      "location": "New York",
+      "vacancy": 0,
+      "occupancy": 6,
       "gender": "male",
       "address": {
-        "address1": "Fowler",
-        "address2": 403,
-        "city": "<ReferenceError: loc is not defined>",
-        "state": "Florida",
-        "postalCode": 55668,
+        "address1": "Bearss",
+        "address2": 541,
+        "city": "New York",
+        "state": "Virginia",
+        "postalCode": 15256,
         "country": "USA"
       }
     },
     {
-      "roomId": "5b213785ecff38aa86c2f9c9",
-      "location": "Tampa",
+      "roomId": "5b213dfef7ba435db88ce259",
+      "location": "Denver",
       "vacancy": 4,
       "occupancy": 2,
-      "gender": "male",
+      "gender": "female",
       "address": {
-        "address1": "Fowler",
-        "address2": 559,
-        "city": "<ReferenceError: loc is not defined>",
+        "address1": "Bearss",
+        "address2": 143,
+        "city": "Denver",
         "state": "Virginia",
-        "postalCode": 68164,
+        "postalCode": 48859,
         "country": "USA"
       }
     },
     {
-      "roomId": "5b213785aad5f67cd0c5383f",
-      "location": "Reston",
+      "roomId": "5b213dfe8487e7478ea67732",
+      "location": "Denver",
       "vacancy": 6,
       "occupancy": 0,
-      "gender": "female",
+      "gender": "male",
       "address": {
         "address1": "Fowler",
-        "address2": 414,
-        "city": "<ReferenceError: loc is not defined>",
-        "state": "Virginia",
-        "postalCode": 56527,
+        "address2": 193,
+        "city": "Denver",
+        "state": "Florida",
+        "postalCode": 41876,
         "country": "USA"
       }
     },
     {
-      "roomId": "5b213785164a5a1ec928d1c5",
-      "location": "Reston",
-      "vacancy": 4,
-      "occupancy": 2,
+      "roomId": "5b213dfe3aaf1950e227383f",
+      "location": "Here",
+      "vacancy": 2,
+      "occupancy": 4,
+      "gender": "male",
+      "address": {
+        "address1": "Bearss",
+        "address2": 126,
+        "city": "Here",
+        "state": "Florida",
+        "postalCode": 23379,
+        "country": "USA"
+      }
+    },
+    {
+      "roomId": "5b213dfeaacc8233718ae893",
+      "location": "Here",
+      "vacancy": 3,
+      "occupancy": 3,
       "gender": "female",
       "address": {
-        "address1": "Livingston",
-        "address2": 367,
-        "city": "<ReferenceError: loc is not defined>",
+        "address1": "Bearss",
+        "address2": 217,
+        "city": "Here",
         "state": "Virginia",
-        "postalCode": 56888,
+        "postalCode": 50792,
+        "country": "USA"
+      }
+    },
+    {
+      "roomId": "5b213dfe081c4dfdd08fd6e3",
+      "location": "New York",
+      "vacancy": 4,
+      "occupancy": 2,
+      "gender": "male",
+      "address": {
+        "address1": "Livingston",
+        "address2": 153,
+        "city": "New York",
+        "state": "Virginia",
+        "postalCode": 47495,
+        "country": "USA"
+      }
+    },
+    {
+      "roomId": "5b213dfe7b306f0930eb09d9",
+      "location": "Valley",
+      "vacancy": 1,
+      "occupancy": 5,
+      "gender": "female",
+      "address": {
+        "address1": "Fowler",
+        "address2": 155,
+        "city": "Valley",
+        "state": "Florida",
+        "postalCode": 39315,
         "country": "USA"
       }
     }
