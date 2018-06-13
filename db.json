@@ -1,155 +1,156 @@
 {
   "Rooms": [
     {
-      "RoomId": "5b1a9707152cae3b4e80027d",
-      "Location": "Valley",
-      "Address": {
-        "Street": "Bearss",
-        "AptNum": 485,
-        "City": "Valley",
-        "State": "Florida",
-        "PostalCode": 85771,
-        "Country": "USA"
+      "roomId": "5b213183e20d1d573f1612cd",
+      "location": "Tampa",
+      "address": {
+        "street": "Fowler",
+        "aptNum": 6422,
+        "city": "Tampa",
+        "state": "Virginia",
+        "postalCode": 62411,
+        "country": "USA"
       },
-      "Vacancy": 1,
-      "Occupancy": 5,
-      "Gender": "female"
+      "vacancy": 6,
+      "occupancy": 0,
+      "gender": "female"
     },
     {
-      "RoomId": "5b1a97076ca2c34e23f62f5c",
-      "Location": "Denver",
-      "Address": {
-        "Street": "Livingston",
-        "AptNum": 318,
-        "City": "Denver",
-        "State": "Florida",
-        "PostalCode": 23366,
-        "Country": "USA"
+      "roomId": "5b213183cb4529111e973c29",
+      "location": "Tampa",
+      "address": {
+        "street": "Virginia",
+        "aptNum": 6456,
+        "city": "Tampa",
+        "state": "Florida",
+        "postalCode": 96414,
+        "country": "USA"
       },
-      "Vacancy": 6,
-      "Occupancy": 0,
-      "Gender": "female"
+      "vacancy": 4,
+      "occupancy": 2,
+      "gender": "female"
     },
     {
-      "RoomId": "5b1a9707c0673dec253bbe82",
-      "Location": "Reston",
-      "Address": {
-        "Street": "Livingston",
-        "AptNum": 506,
-        "City": "Reston",
-        "State": "Virginia",
-        "PostalCode": 66479,
-        "Country": "USA"
+      "roomId": "5b2131832d905070c7736cd4",
+      "location": "Reston",
+      "address": {
+        "street": "Virginia",
+        "aptNum": 7234,
+        "city": "Tampa",
+        "state": "Florida",
+        "postalCode": 16598,
+        "country": "USA"
       },
-      "Vacancy": 6,
-      "Occupancy": 0,
-      "Gender": "female"
+      "vacancy": 3,
+      "occupancy": 3,
+      "gender": "female"
     },
     {
-      "RoomId": "5b1a970735fe7d2d674bbd88",
-      "Location": "Reston",
-      "Address": {
-        "Street": "Fowler",
-        "AptNum": 138,
-        "City": "Reston",
-        "State": "Virginia",
-        "PostalCode": 31908,
-        "Country": "USA"
+      "roomId": "5b213183951c06550a4819ea",
+      "location": "Tampa",
+      "address": {
+        "street": "Fowler",
+        "aptNum": 3248,
+        "city": "Tampa",
+        "state": "Florida",
+        "postalCode": 44492,
+        "country": "USA"
       },
-      "Vacancy": 5,
-      "Occupancy": 1,
-      "Gender": "male"
+      "vacancy": 5,
+      "occupancy": 1,
+      "gender": "male"
     },
     {
-      "RoomId": "5b1a9707e773a3189aab0c00",
-      "Location": "Here",
-      "Address": {
-        "Street": "Livingston",
-        "AptNum": 446,
-        "City": "Here",
-        "State": "Florida",
-        "PostalCode": 56862,
-        "Country": "USA"
+      "roomId": "5b2131833be9aecfb9cd3136",
+      "location": "Tampa",
+      "address": {
+        "street": "Fowler",
+        "aptNum": 4932,
+        "city": "Reston",
+        "state": "Virginia",
+        "postalCode": 42634,
+        "country": "USA"
       },
-      "Vacancy": 1,
-      "Occupancy": 5,
-      "Gender": "female"
+      "vacancy": 1,
+      "occupancy": 5,
+      "gender": "female"
     },
     {
-      "RoomId": "5b1a97073a4711604bc16310",
-      "Location": "New York",
-      "Address": {
-        "Street": "Fowler",
-        "AptNum": 415,
-        "City": "New York",
-        "State": "Virginia",
-        "PostalCode": 14309,
-        "Country": "USA"
+      "roomId": "5b213183752390c45d994ac2",
+      "location": "Tampa",
+      "address": {
+        "street": "Bearss",
+        "aptNum": 6924,
+        "city": "Tampa",
+        "state": "Florida",
+        "postalCode": 24773,
+        "country": "USA"
       },
-      "Vacancy": 1,
-      "Occupancy": 5,
-      "Gender": "male"
+      "vacancy": 2,
+      "occupancy": 4,
+      "gender": "female"
     },
     {
-      "RoomId": "5b1a9707ae08bc716c144969",
-      "Location": "New York",
-      "Address": {
-        "Street": "Fowler",
-        "AptNum": 287,
-        "City": "New York",
-        "State": "Florida",
-        "PostalCode": 83056,
-        "Country": "USA"
+      "roomId": "5b2131831895218798a20c33",
+      "location": "Reston",
+      "address": {
+        "street": "Livingston",
+        "aptNum": 1543,
+        "city": "Tampa",
+        "state": "Florida",
+        "postalCode": 53463,
+        "country": "USA"
       },
-      "Vacancy": 0,
-      "Occupancy": 6,
-      "Gender": "male"
+      "vacancy": 2,
+      "occupancy": 4,
+      "gender": "female"
     },
     {
-      "RoomId": "5b1a97072210ebcb4d9bb275",
-      "Location": "Reston",
-      "Address": {
-        "Street": "Bearss",
-        "AptNum": 596,
-        "City": "Reston",
-        "State": "Virginia",
-        "PostalCode": 54950,
-        "Country": "USA"
+      "roomId": "5b2131832ea2eb847b8eb860",
+      "location": "Tampa",
+      "address": {
+        "street": "Virginia",
+        "aptNum": 7490,
+        "city": "Tampa",
+        "state": "Florida",
+        "postalCode": 25693,
+        "country": "USA"
       },
-      "Vacancy": 5,
-      "Occupancy": 1,
-      "Gender": "male"
+      "vacancy": 2,
+      "occupancy": 4,
+      "gender": "male"
     },
     {
-      "RoomId": "5b1a970701756177f5e9ac18",
-      "Location": "New York",
-      "Address": {
-        "Street": "Bearss",
-        "AptNum": 232,
-        "City": "New York",
-        "State": "Virginia",
-        "PostalCode": 27424,
-        "Country": "USA"
+      "roomId": "5b2131839d688f40d73c0372",
+      "location": "Reston",
+      "address": {
+        "street": "Virginia",
+        "aptNum": 7012,
+        "city": "Tampa",
+        "state": "Virginia",
+        "postalCode": 90416,
+        "country": "USA"
       },
-      "Vacancy": 3,
-      "Occupancy": 3,
-      "Gender": "male"
+      "vacancy": 4,
+      "occupancy": 2,
+      "gender": "female"
     },
     {
-      "RoomId": "5b1a97073e113c7444175486",
-      "Location": "Chicago",
-      "Address": {
-        "Street": "Fowler",
-        "AptNum": 569,
-        "City": "Chicago",
-        "State": "Virginia",
-        "PostalCode": 88465,
-        "Country": "USA"
+      "roomId": "5b213183a7aec9b199fa5801",
+      "location": "Reston",
+      "address": {
+        "street": "Virginia",
+        "aptNum": 6156,
+        "city": "Reston",
+        "state": "Florida",
+        "postalCode": 26376,
+        "country": "USA"
       },
-      "Vacancy": 5,
-      "Occupancy": 1,
-      "Gender": "male"
+      "vacancy": 6,
+      "occupancy": 0,
+      "gender": "female"
     }
+  ]
   ],
   "Users": 
   [
