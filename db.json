@@ -1,156 +1,155 @@
 {
   "Rooms": [
     {
-      "roomId": "5b213183e20d1d573f1612cd",
-      "location": "Tampa",
+      "roomId": "5b213785c13d798f200a4e55",
+      "location": "Reston",
+      "vacancy": 2,
+      "occupancy": 4,
+      "gender": "female",
       "address": {
-        "street": "Fowler",
-        "aptNum": 6422,
-        "city": "Tampa",
+        "address1": "Livingston",
+        "address2": 338,
+        "city": "<ReferenceError: loc is not defined>",
         "state": "Virginia",
-        "postalCode": 62411,
+        "postalCode": 27711,
         "country": "USA"
-      },
-      "vacancy": 6,
-      "occupancy": 0,
-      "gender": "female"
+      }
     },
     {
-      "roomId": "5b213183cb4529111e973c29",
-      "location": "Tampa",
-      "address": {
-        "street": "Virginia",
-        "aptNum": 6456,
-        "city": "Tampa",
-        "state": "Florida",
-        "postalCode": 96414,
-        "country": "USA"
-      },
+      "roomId": "5b21378522c5a21805a5d826",
+      "location": "Reston",
       "vacancy": 4,
       "occupancy": 2,
-      "gender": "female"
-    },
-    {
-      "roomId": "5b2131832d905070c7736cd4",
-      "location": "Reston",
+      "gender": "male",
       "address": {
-        "street": "Virginia",
-        "aptNum": 7234,
-        "city": "Tampa",
-        "state": "Florida",
-        "postalCode": 16598,
+        "address1": "Fowler",
+        "address2": 316,
+        "city": "<ReferenceError: loc is not defined>",
+        "state": "Virginia",
+        "postalCode": 83296,
         "country": "USA"
-      },
-      "vacancy": 3,
-      "occupancy": 3,
-      "gender": "female"
+      }
     },
     {
-      "roomId": "5b213183951c06550a4819ea",
+      "roomId": "5b213785d1ac9a80b3edc2d4",
       "location": "Tampa",
-      "address": {
-        "street": "Fowler",
-        "aptNum": 3248,
-        "city": "Tampa",
-        "state": "Florida",
-        "postalCode": 44492,
-        "country": "USA"
-      },
       "vacancy": 5,
       "occupancy": 1,
-      "gender": "male"
-    },
-    {
-      "roomId": "5b2131833be9aecfb9cd3136",
-      "location": "Tampa",
+      "gender": "male",
       "address": {
-        "street": "Fowler",
-        "aptNum": 4932,
-        "city": "Reston",
-        "state": "Virginia",
-        "postalCode": 42634,
-        "country": "USA"
-      },
-      "vacancy": 1,
-      "occupancy": 5,
-      "gender": "female"
-    },
-    {
-      "roomId": "5b213183752390c45d994ac2",
-      "location": "Tampa",
-      "address": {
-        "street": "Bearss",
-        "aptNum": 6924,
-        "city": "Tampa",
+        "address1": "Bearss",
+        "address2": 266,
+        "city": "<ReferenceError: loc is not defined>",
         "state": "Florida",
-        "postalCode": 24773,
+        "postalCode": 42351,
         "country": "USA"
-      },
-      "vacancy": 2,
-      "occupancy": 4,
-      "gender": "female"
+      }
     },
     {
-      "roomId": "5b2131831895218798a20c33",
+      "roomId": "5b213785b02e1f8ef0d1108f",
       "location": "Reston",
-      "address": {
-        "street": "Livingston",
-        "aptNum": 1543,
-        "city": "Tampa",
-        "state": "Florida",
-        "postalCode": 53463,
-        "country": "USA"
-      },
-      "vacancy": 2,
-      "occupancy": 4,
-      "gender": "female"
-    },
-    {
-      "roomId": "5b2131832ea2eb847b8eb860",
-      "location": "Tampa",
-      "address": {
-        "street": "Virginia",
-        "aptNum": 7490,
-        "city": "Tampa",
-        "state": "Florida",
-        "postalCode": 25693,
-        "country": "USA"
-      },
-      "vacancy": 2,
-      "occupancy": 4,
-      "gender": "male"
-    },
-    {
-      "roomId": "5b2131839d688f40d73c0372",
-      "location": "Reston",
-      "address": {
-        "street": "Virginia",
-        "aptNum": 7012,
-        "city": "Tampa",
-        "state": "Virginia",
-        "postalCode": 90416,
-        "country": "USA"
-      },
       "vacancy": 4,
       "occupancy": 2,
-      "gender": "female"
+      "gender": "female",
+      "address": {
+        "address1": "Fowler",
+        "address2": 336,
+        "city": "<ReferenceError: loc is not defined>",
+        "state": "Virginia",
+        "postalCode": 83592,
+        "country": "USA"
+      }
     },
     {
-      "roomId": "5b213183a7aec9b199fa5801",
-      "location": "Reston",
+      "roomId": "5b21378576c100a5aa311799",
+      "location": "Tampa",
+      "vacancy": 1,
+      "occupancy": 5,
+      "gender": "male",
       "address": {
-        "street": "Virginia",
-        "aptNum": 6156,
-        "city": "Reston",
+        "address1": "Fowler",
+        "address2": 364,
+        "city": "<ReferenceError: loc is not defined>",
         "state": "Florida",
-        "postalCode": 26376,
+        "postalCode": 63794,
         "country": "USA"
-      },
+      }
+    },
+    {
+      "roomId": "5b21378516f12cc4b3456d36",
+      "location": "Reston",
+      "vacancy": 3,
+      "occupancy": 3,
+      "gender": "male",
+      "address": {
+        "address1": "Bearss",
+        "address2": 330,
+        "city": "<ReferenceError: loc is not defined>",
+        "state": "Virginia",
+        "postalCode": 37395,
+        "country": "USA"
+      }
+    },
+    {
+      "roomId": "5b213785f74569f63c480b93",
+      "location": "Reston",
+      "vacancy": 4,
+      "occupancy": 2,
+      "gender": "male",
+      "address": {
+        "address1": "Fowler",
+        "address2": 403,
+        "city": "<ReferenceError: loc is not defined>",
+        "state": "Florida",
+        "postalCode": 55668,
+        "country": "USA"
+      }
+    },
+    {
+      "roomId": "5b213785ecff38aa86c2f9c9",
+      "location": "Tampa",
+      "vacancy": 4,
+      "occupancy": 2,
+      "gender": "male",
+      "address": {
+        "address1": "Fowler",
+        "address2": 559,
+        "city": "<ReferenceError: loc is not defined>",
+        "state": "Virginia",
+        "postalCode": 68164,
+        "country": "USA"
+      }
+    },
+    {
+      "roomId": "5b213785aad5f67cd0c5383f",
+      "location": "Reston",
       "vacancy": 6,
       "occupancy": 0,
-      "gender": "female"
+      "gender": "female",
+      "address": {
+        "address1": "Fowler",
+        "address2": 414,
+        "city": "<ReferenceError: loc is not defined>",
+        "state": "Virginia",
+        "postalCode": 56527,
+        "country": "USA"
+      }
+    },
+    {
+      "roomId": "5b213785164a5a1ec928d1c5",
+      "location": "Reston",
+      "vacancy": 4,
+      "occupancy": 2,
+      "gender": "female",
+      "address": {
+        "address1": "Livingston",
+        "address2": 367,
+        "city": "<ReferenceError: loc is not defined>",
+        "state": "Virginia",
+        "postalCode": 56888,
+        "country": "USA"
+      }
     }
-  ]
   ],
   "Users": 
   [
