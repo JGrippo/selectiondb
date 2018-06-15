@@ -1,407 +1,724 @@
-{
-  "Rooms": [
-    {
-      "RoomId": "5b1a9707152cae3b4e80027d",
-      "Location": "Valley",
-      "Address": {
-        "Street": "Bearss",
-        "AptNum": 485,
-        "City": "Valley",
-        "State": "Florida",
-        "PostalCode": 85771,
-        "Country": "USA"
-      },
-      "Vacancy": 1,
-      "Occupancy": 5,
-      "Gender": "female"
-    },
-    {
-      "RoomId": "5b1a97076ca2c34e23f62f5c",
-      "Location": "Denver",
-      "Address": {
-        "Street": "Livingston",
-        "AptNum": 318,
-        "City": "Denver",
-        "State": "Florida",
-        "PostalCode": 23366,
-        "Country": "USA"
-      },
-      "Vacancy": 6,
-      "Occupancy": 0,
-      "Gender": "female"
-    },
-    {
-      "RoomId": "5b1a9707c0673dec253bbe82",
-      "Location": "Reston",
-      "Address": {
-        "Street": "Livingston",
-        "AptNum": 506,
-        "City": "Reston",
-        "State": "Virginia",
-        "PostalCode": 66479,
-        "Country": "USA"
-      },
-      "Vacancy": 6,
-      "Occupancy": 0,
-      "Gender": "female"
-    },
-    {
-      "RoomId": "5b1a970735fe7d2d674bbd88",
-      "Location": "Reston",
-      "Address": {
-        "Street": "Fowler",
-        "AptNum": 138,
-        "City": "Reston",
-        "State": "Virginia",
-        "PostalCode": 31908,
-        "Country": "USA"
-      },
-      "Vacancy": 5,
-      "Occupancy": 1,
-      "Gender": "male"
-    },
-    {
-      "RoomId": "5b1a9707e773a3189aab0c00",
-      "Location": "Here",
-      "Address": {
-        "Street": "Livingston",
-        "AptNum": 446,
-        "City": "Here",
-        "State": "Florida",
-        "PostalCode": 56862,
-        "Country": "USA"
-      },
-      "Vacancy": 1,
-      "Occupancy": 5,
-      "Gender": "female"
-    },
-    {
-      "RoomId": "5b1a97073a4711604bc16310",
-      "Location": "New York",
-      "Address": {
-        "Street": "Fowler",
-        "AptNum": 415,
-        "City": "New York",
-        "State": "Virginia",
-        "PostalCode": 14309,
-        "Country": "USA"
-      },
-      "Vacancy": 1,
-      "Occupancy": 5,
-      "Gender": "male"
-    },
-    {
-      "RoomId": "5b1a9707ae08bc716c144969",
-      "Location": "New York",
-      "Address": {
-        "Street": "Fowler",
-        "AptNum": 287,
-        "City": "New York",
-        "State": "Florida",
-        "PostalCode": 83056,
-        "Country": "USA"
-      },
-      "Vacancy": 0,
-      "Occupancy": 6,
-      "Gender": "male"
-    },
-    {
-      "RoomId": "5b1a97072210ebcb4d9bb275",
-      "Location": "Reston",
-      "Address": {
-        "Street": "Bearss",
-        "AptNum": 596,
-        "City": "Reston",
-        "State": "Virginia",
-        "PostalCode": 54950,
-        "Country": "USA"
-      },
-      "Vacancy": 5,
-      "Occupancy": 1,
-      "Gender": "male"
-    },
-    {
-      "RoomId": "5b1a970701756177f5e9ac18",
-      "Location": "New York",
-      "Address": {
-        "Street": "Bearss",
-        "AptNum": 232,
-        "City": "New York",
-        "State": "Virginia",
-        "PostalCode": 27424,
-        "Country": "USA"
-      },
-      "Vacancy": 3,
-      "Occupancy": 3,
-      "Gender": "male"
-    },
-    {
-      "RoomId": "5b1a97073e113c7444175486",
-      "Location": "Chicago",
-      "Address": {
-        "Street": "Fowler",
-        "AptNum": 569,
-        "City": "Chicago",
-        "State": "Virginia",
-        "PostalCode": 88465,
-        "Country": "USA"
-      },
-      "Vacancy": 5,
-      "Occupancy": 1,
-      "Gender": "male"
-    }
-  ],
-  "Users": 
-  [
-    {
-      "id": "5b1feb4ed7da224bfad028da",
-      "location": "Miami",
-      "email": "tamerasheppard@ultrimax.com",
-      "gender": "female",
-      "type": "Undefined",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4eb063ba92f39b2eb7",
-          "first": "Francesca",
-          "middle": "Ora",
-          "last": "Combs"
-        }
-      ],
-      "address": {
-        "address1": "Livingston",
-        "address2": 186,
-        "city": "Miami",
-        "state": "Florida",
-        "postalCode": 68071,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4e4a529de84f3467d8",
-      "location": "Miami",
-      "email": "oracombs@ultrimax.com",
-      "gender": "female",
-      "type": "Undefined",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4e4d0e43e38babb9d8",
-          "first": "English",
-          "middle": "Dyer",
-          "last": "Crawford"
-        }
-      ],
-      "address": {
-        "address1": "Livingston",
-        "address2": 248,
-        "city": "Miami",
-        "state": "Florida",
-        "postalCode": 56114,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4e690142b5dedfa861",
-      "location": "Here",
-      "email": "dyercrawford@ultrimax.com",
-      "gender": "male",
-      "type": "Known",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4ec520879c17e845cc",
-          "first": "Sofia",
-          "middle": "Erin",
-          "last": "Jacobs"
-        }
-      ],
-      "address": {
-        "address1": "Fowler",
-        "address2": 435,
-        "city": "Here",
-        "state": "Florida",
-        "postalCode": 37168,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4ebd935d55b689604d",
-      "location": "Reston",
-      "email": "erinjacobs@ultrimax.com",
-      "gender": "female",
-      "type": "Known",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4ee3208da847d54384",
-          "first": "Marquez",
-          "middle": "Estella",
-          "last": "Gibson"
-        }
-      ],
-      "address": {
-        "address1": "Fowler",
-        "address2": 458,
-        "city": "Reston",
-        "state": "Virginia",
-        "postalCode": 60975,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4ef8dcf95d636a2de9",
-      "location": "Here",
-      "email": "estellagibson@ultrimax.com",
-      "gender": "female",
-      "type": "Known",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4e89d87ef938cb98ca",
-          "first": "Marilyn",
-          "middle": "Hurst",
-          "last": "Shelton"
-        }
-      ],
-      "address": {
-        "address1": "Fowler",
-        "address2": 363,
-        "city": "Here",
-        "state": "Florida",
-        "postalCode": 41916,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4efb529917a5a63595",
-      "location": "New York",
-      "email": "hurstshelton@ultrimax.com",
-      "gender": "male",
-      "type": "Unknown",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4e6db294047aa9eece",
-          "first": "Cash",
-          "middle": "Trudy",
-          "last": "Manning"
-        }
-      ],
-      "address": {
-        "address1": "Livingston",
-        "address2": 157,
-        "city": "New York",
-        "state": "Florida",
-        "postalCode": 36863,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4e073fe2522db6c0ae",
-      "location": "Tampa",
-      "email": "trudymanning@ultrimax.com",
-      "gender": "female",
-      "type": "Undefined",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4e19b0484e055f1688",
-          "first": "Lorna",
-          "middle": "Lauren",
-          "last": "Langley"
-        }
-      ],
-      "address": {
-        "address1": "Livingston",
-        "address2": 534,
-        "city": "Tampa",
-        "state": "Virginia",
-        "postalCode": 47897,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4e527635c9c9940667",
-      "location": "Here",
-      "email": "laurenlangley@ultrimax.com",
-      "gender": "female",
-      "type": "Known",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4ec233c68a2131ce4e",
-          "first": "Rena",
-          "middle": "Angelina",
-          "last": "Odom"
-        }
-      ],
-      "address": {
-        "address1": "Livingston",
-        "address2": 184,
-        "city": "Here",
-        "state": "Florida",
-        "postalCode": 42178,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4eecf283940f92aaa2",
-      "location": "Denver",
-      "email": "angelinaodom@ultrimax.com",
-      "gender": "female",
-      "type": "Known",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4e8df5a6d7af068bf4",
-          "first": "Silva",
-          "middle": "Stacey",
-          "last": "Holcomb"
-        }
-      ],
-      "address": {
-        "address1": "Livingston",
-        "address2": 294,
-        "city": "Denver",
-        "state": "Florida",
-        "postalCode": 54270,
-        "country": "USA"
-      }
-    },
-    {
-      "id": "5b1feb4ee9e4bcbc726a44e7",
-      "location": "New York",
-      "email": "staceyholcomb@ultrimax.com",
-      "gender": "female",
-      "type": "Known",
-      "batch": null,
-      "room": null,
-      "name": [
-        {
-          "id": "5b1feb4e49b30d18619c0cb8",
-          "first": "Mack",
-          "middle": "Carmela",
-          "last": "Sanford"
-        }
-      ],
-      "address": {
-        "address1": "Bearss",
-        "address2": 380,
-        "city": "New York",
-        "state": "Virginia",
-        "postalCode": 87593,
-        "country": "USA"
-      }
-    }
-  ]
+users:[
+  {
+  "id":"10",
+  "location":"Reston",
+  "email":"a@a.com",
+  "gender":"male",
+  "type":"Known",
+  "name":{
+  "id":"1000",
+  "first":"Petty",
+  "middle":"Meagan",
+  "last":"Barber"
+  },
+  "address":{
+  "address1":"Fowler",
+  "address2":411,
+  "city":"Reston",
+  "state":"Virginia",
+  "postalCode":43417,
+  "country":"USA"
   }
+  },
+  {
+  "id":"11",
+  "location":"Tampa",
+  "email":"b@b.com",
+  "gender":"male",
+  "type":"Unknown",
+  "name":{
+  "id":"1001",
+  "first":"Bridget",
+  "middle":"Erica",
+  "last":"Padilla"
+  },
+  "address":{
+  "address1":"Fowler",
+  "address2":249,
+  "city":"Tampa",
+  "state":"Florida",
+  "postalCode":88080,
+  "country":"USA"
+  }
+  },
+  {
+  "id":"12",
+  "location":"Tampa",
+  "email":"c@c.com",
+  "gender":"male",
+  "type":"Unknown",
+  "name":{
+  "id":"1002",
+  "first":"Mullins",
+  "middle":"Maude",
+  "last":"Wynn"
+  },
+  "address":{
+  "address1":"Livingston",
+  "address2":122,
+  "city":"Tampa",
+  "state":"Virginia",
+  "postalCode":92287,
+  "country":"USA"
+  }
+  },
+  {
+  "id":"13",
+  "location":"Reston",
+  "email":"d@d.com",
+  "gender":"male",
+  "type":"Unknown",
+  "name":{
+  "id":"1003",
+  "first":"Susanne",
+  "middle":"Kristin",
+  "last":"Haynes"
+  },
+  "address":{
+  "address1":"Livingston",
+  "address2":247,
+  "city":"Reston",
+  "state":"Florida",
+  "postalCode":23366,
+  "country":"USA"
+  }
+  },
+  {
+  "id":"14",
+  "location":"Tampa",
+  "email":"e@e.com",
+  "gender":"male",
+  "type":"Unknown",
+  "name":{
+  "id":"1004",
+  "first":"Estes",
+  "middle":"Kitty",
+  "last":"Lopez"
+  },
+  "address":{
+  "address1":"Livingston",
+  "address2":492,
+  "city":"Tampa",
+  "state":"Virginia",
+  "postalCode":73104,
+  "country":"USA"
+  }
+  },
+  {
+  "id":"15",
+  "location":"Tampa",
+  "email":"f@f.com",
+  "gender":"female",
+  "type":"Known",
+  "name":{
+  "id":"1005",
+  "first":"Haley",
+  "middle":"Tommie",
+  "last":"Sanders"
+  },
+  "address":{
+  "address1":"Fowler",
+  "address2":297,
+  "city":"Tampa",
+  "state":"Virginia",
+  "postalCode":70775,
+  "country":"USA"
+  }
+  },
+  {
+  "id":"16",
+  "location":"Tampa",
+  "email":"g@g.com",
+  "gender":"female",
+  "type":"Unknown",
+  "name":{
+  "id":"1006",
+  "first":"Rutledge",
+  "middle":"Jillian",
+  "last":"Zamora"
+  },
+  "address":{
+  "address1":"Bearss",
+  "address2":352,
+  "city":"Tampa",
+  "state":"Florida",
+  "postalCode":88570,
+  "country":"USA"
+  }
+  },
+  {
+  "id":"17",
+  "location":"Tampa",
+  "email":"h@h.com",
+  "gender":"female",
+  "type":"Known",
+  "name":{
+  "id":"1007",
+  "first":"Cabrera",
+  "middle":"Vivian",
+  "last":"Willis"
+  },
+  "address":{
+  "address1":"Fowler",
+  "address2":248,
+  "city":"Tampa",
+  "state":"Florida",
+  "postalCode":90726,
+  "country":"USA"
+  }
+  },
+  {
+  "id":"18",
+  "location":"Reston",
+  "email":"i@i.com",
+  "gender":"female",
+  "type":"Known",
+  "name":{
+  "id":"1008",
+  "first":"Lara",
+  "middle":"Barbra",
+  "last":"Graham"
+  },
+  "address":{
+  "address1":"Livingston",
+  "address2":183,
+  "city":"Reston",
+  "state":"Virginia",
+  "postalCode":57929,
+  "country":"USA"
+  }
+  },
+  {
+  "id":"19",
+  "location":"Tampa",
+  "email":"j@j.com",
+  "gender":"female",
+  "type":"Unknown",
+  "name":{
+  "id":"1009",
+  "first":"Denise",
+  "middle":"Madeleine",
+  "last":"Webster"
+  },
+  "address":{
+  "address1":"Bearss",
+  "address2":344,
+  "city":"Tampa",
+  "state":"Florida",
+  "postalCode":66501,
+  "country":"USA"
+  }
+  }
+  ]
+  
+  batches:[
+  {
+  "batchId":"1",
+  "location":"Tampa",
+    "users":[
+    {
+      "id":"11",
+      "location":"Tampa",
+      "email":"b@b.com",
+      "gender":"male",
+      "type":"Unknown",
+      "name":{
+      "id":"1001",
+      "first":"Bridget",
+      "middle":"Erica",
+      "last":"Padilla"
+      },
+      "address":{
+      "address1":"Fowler",
+      "address2":249,
+      "city":"Tampa",
+      "state":"Florida",
+      "postalCode":88080,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"12",
+      "location":"Tampa",
+      "email":"c@c.com",
+      "gender":"male",
+      "type":"Unknown",
+      "name":{
+      "id":"1002",
+      "first":"Mullins",
+      "middle":"Maude",
+      "last":"Wynn"
+      },
+      "address":{
+      "address1":"Livingston",
+      "address2":122,
+      "city":"Tampa",
+      "state":"Virginia",
+      "postalCode":92287,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"14",
+      "location":"Tampa",
+      "email":"e@e.com",
+      "gender":"male",
+      "type":"Unknown",
+      "name":{
+      "id":"1004",
+      "first":"Estes",
+      "middle":"Kitty",
+      "last":"Lopez"
+      },
+      "address":{
+      "address1":"Livingston",
+      "address2":492,
+      "city":"Tampa",
+      "state":"Virginia",
+      "postalCode":73104,
+      "country":"USA"
+      }
+    }
+    ]
+  },
+  {
+  "batchId":"2",
+  "location":"Reston",
+    "users":[
+    {
+      "id":"10",
+      "location":"Reston",
+      "email":"a@a.com",
+      "gender":"male",
+      "type":"Known",
+      "name":{
+      "id":"1000",
+      "first":"Petty",
+      "middle":"Meagan",
+      "last":"Barber"
+      },
+      "address":{
+      "address1":"Fowler",
+      "address2":411,
+      "city":"Reston",
+      "state":"Virginia",
+      "postalCode":43417,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"13",
+      "location":"Reston",
+      "email":"d@d.com",
+      "gender":"male",
+      "type":"Unknown",
+      "name":{
+      "id":"1003",
+      "first":"Susanne",
+      "middle":"Kristin",
+      "last":"Haynes"
+      },
+      "address":{
+      "address1":"Livingston",
+      "address2":247,
+      "city":"Reston",
+      "state":"Florida",
+      "postalCode":23366,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"18",
+      "location":"Reston",
+      "email":"i@i.com",
+      "gender":"female",
+      "type":"Known",
+      "name":{
+      "id":"1008",
+      "first":"Lara",
+      "middle":"Barbra",
+      "last":"Graham"
+      },
+      "address":{
+      "address1":"Livingston",
+      "address2":183,
+      "city":"Reston",
+      "state":"Virginia",
+      "postalCode":57929,
+      "country":"USA"
+      }
+    }
+    ]
+  },
+  {
+  "batchId":"3",
+  "location":"Tampa",
+    "users":[
+    {
+      "id":"15",
+      "location":"Tampa",
+      "email":"f@f.com",
+      "gender":"female",
+      "type":"Known",
+      "name":{
+      "id":"1005",
+      "first":"Haley",
+      "middle":"Tommie",
+      "last":"Sanders"
+      },
+      "address":{
+      "address1":"Fowler",
+      "address2":297,
+      "city":"Tampa",
+      "state":"Virginia",
+      "postalCode":70775,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"16",
+      "location":"Tampa",
+      "email":"g@g.com",
+      "gender":"female",
+      "type":"Unknown",
+      "name":{
+      "id":"1006",
+      "first":"Rutledge",
+      "middle":"Jillian",
+      "last":"Zamora"
+      },
+      "address":{
+      "address1":"Bearss",
+      "address2":352,
+      "city":"Tampa",
+      "state":"Florida",
+      "postalCode":88570,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"17",
+      "location":"Tampa",
+      "email":"h@h.com",
+      "gender":"female",
+      "type":"Known",
+      "name":{
+      "id":"1007",
+      "first":"Cabrera",
+      "middle":"Vivian",
+      "last":"Willis"
+      },
+      "address":{
+      "address1":"Fowler",
+      "address2":248,
+      "city":"Tampa",
+      "state":"Florida",
+      "postalCode":90726,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"19",
+      "location":"Tampa",
+      "email":"j@j.com",
+      "gender":"female",
+      "type":"Unknown",
+      "name":{
+      "id":"1009",
+      "first":"Denise",
+      "middle":"Madeleine",
+      "last":"Webster"
+      },
+      "address":{
+      "address1":"Bearss",
+      "address2":344,
+      "city":"Tampa",
+      "state":"Florida",
+      "postalCode":66501,
+      "country":"USA"
+      }
+    }
+    ]
+  }
+  ]
+  
+  rooms:[
+  {
+  "roomId":"100",
+  "location":"Tampa",
+  "address":{
+  "street":"Livingston",
+  "aptNum":6346,
+  "city":"Tampa",
+  "state":"Florida",
+  "postalCode":55141,
+  "country":"USA"
+  },
+  "vacancy":3,
+  "occupancy":3,
+  "gender":"male",
+    "user":[
+    {
+      "id":"10",
+      "location":"Reston",
+      "email":"a@a.com",
+      "gender":"male",
+      "type":"Known",
+      "name":{
+      "id":"1000",
+      "first":"Petty",
+      "middle":"Meagan",
+      "last":"Barber"
+      },
+      "address":{
+      "address1":"Fowler",
+      "address2":411,
+      "city":"Reston",
+      "state":"Virginia",
+      "postalCode":43417,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"11",
+      "location":"Tampa",
+      "email":"b@b.com",
+      "gender":"male",
+      "type":"Unknown",
+      "name":{
+      "id":"1001",
+      "first":"Bridget",
+      "middle":"Erica",
+      "last":"Padilla"
+      },
+      "address":{
+      "address1":"Fowler",
+      "address2":249,
+      "city":"Tampa",
+      "state":"Florida",
+      "postalCode":88080,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"12",
+      "location":"Tampa",
+      "email":"c@c.com",
+      "gender":"male",
+      "type":"Unknown",
+      "name":{
+      "id":"1002",
+      "first":"Mullins",
+      "middle":"Maude",
+      "last":"Wynn"
+      },
+      "address":{
+      "address1":"Livingston",
+      "address2":122,
+      "city":"Tampa",
+      "state":"Virginia",
+      "postalCode":92287,
+      "country":"USA"
+      }
+    }
+    ]
+  },
+  {
+  "roomId":"101",
+  "location":"Tampa",
+  "address":{
+  "street":"Fowler",
+  "aptNum":7594,
+  "city":"Tampa",
+  "state":"Florida",
+  "postalCode":16986,
+  "country":"USA"
+  },
+  "vacancy":2,
+  "occupancy":2,
+  "gender":"male",
+    "users":[
+    {
+      "id":"13",
+      "location":"Reston",
+      "email":"d@d.com",
+      "gender":"male",
+      "type":"Unknown",
+      "name":{
+      "id":"1003",
+      "first":"Susanne",
+      "middle":"Kristin",
+      "last":"Haynes"
+      },
+      "address":{
+      "address1":"Livingston",
+      "address2":247,
+      "city":"Reston",
+      "state":"Florida",
+      "postalCode":23366,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"14",
+      "location":"Tampa",
+      "email":"e@e.com",
+      "gender":"male",
+      "type":"Unknown",
+      "name":{
+      "id":"14",
+      "first":"Estes",
+      "middle":"Kitty",
+      "last":"Lopez"
+      },
+      "address":{
+      "address1":"Livingston",
+      "address2":492,
+      "city":"Tampa",
+      "state":"Virginia",
+      "postalCode":73104,
+      "country":"USA"
+      }
+    }
+    ]
+  },
+  {
+  "roomId":"102",
+  "location":"Reston",
+  "address":{
+  "street":"Bearss",
+  "aptNum":6881,
+  "city":"Reston",
+  "state":"Virginia",
+  "postalCode":91077,
+  "country":"USA"
+  },
+  "vacancy":2,
+  "occupancy":4,
+  "gender":"female",
+    "users":[
+    {
+      "id":"15",
+      "location":"Tampa",
+      "email":"f@f.com",
+      "gender":"female",
+      "type":"Known",
+      "name":{
+      "id":"1005",
+      "first":"Haley",
+      "middle":"Tommie",
+      "last":"Sanders"
+      },
+      "address":{
+      "address1":"Fowler",
+      "address2":297,
+      "city":"Tampa",
+      "state":"Virginia",
+      "postalCode":70775,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"16",
+      "location":"Tampa",
+      "email":"g@g.com",
+      "gender":"female",
+      "type":"Unknown",
+      "name":{
+      "id":"1006",
+      "first":"Rutledge",
+      "middle":"Jillian",
+      "last":"Zamora"
+      },
+      "address":{
+      "address1":"Bearss",
+      "address2":352,
+      "city":"Tampa",
+      "state":"Florida",
+      "postalCode":88570,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"17",
+      "location":"Tampa",
+      "email":"h@h.com",
+      "gender":"female",
+      "type":"Known",
+      "name":{
+      "id":"1007",
+      "first":"Cabrera",
+      "middle":"Vivian",
+      "last":"Willis"
+      },
+      "address":{
+      "address1":"Fowler",
+      "address2":248,
+      "city":"Tampa",
+      "state":"Florida",
+      "postalCode":90726,
+      "country":"USA"
+      }
+    },
+    {
+      "id":"18",
+      "location":"Reston",
+      "email":"i@i.com",
+      "gender":"female",
+      "type":"Known",
+      "name":{
+      "id":"1008",
+      "first":"Lara",
+      "middle":"Barbra",
+      "last":"Graham"
+      },
+      "address":{
+      "address1":"Livingston",
+      "address2":183,
+      "city":"Reston",
+      "state":"Virginia",
+      "postalCode":57929,
+      "country":"USA"
+      }
+    }
+    ]
+  },
+  {
+  "roomId":"103",
+  "location":"Reston",
+  "address":{
+  "street":"Bearss",
+  "aptNum":9066,
+  "city":"Reston",
+  "state":"Virginia",
+  "postalCode":29846,
+  "country":"USA"
+  },
+  "vacancy":4,
+  "occupancy":1,
+  "gender":"female",
+    "users":[
+    {
+      "id":"19",
+      "location":"Tampa",
+      "email":"j@j.com",
+      "gender":"female",
+      "type":"Unknown",
+      "name":{
+      "id":"1009",
+      "first":"Denise",
+      "middle":"Madeleine",
+      "last":"Webster"
+      },
+      "address":{
+      "address1":"Bearss",
+      "address2":344,
+      "city":"Tampa",
+      "state":"Florida",
+      "postalCode":66501,
+      "country":"USA"
+      }
+    }
+    ]
+  }
+  ]
